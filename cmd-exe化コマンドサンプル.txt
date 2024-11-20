@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=ext_csv_filetype_icon.ico testDesktopApp(ext,concat,thinOut).py
